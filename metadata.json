@@ -1,0 +1,6 @@
+{
+  "name": "SMK Negeri 2 Biau",
+  "description": "Portal Resmi SMK Negeri 2 Biau, Kabupaten Buol, Sulawesi Tengah. Pusat keunggulan vokasi Agribisnis & Teknologi Informasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
